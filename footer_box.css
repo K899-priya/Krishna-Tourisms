@@ -1,0 +1,15 @@
+/*Footer*/
+.box1 {
+    width: auto;
+    height: auto;
+    margin-top: 15px;
+    margin-left: 85px;
+    margin-right: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    text-align: center;
+    background-image: linear-gradient(to bottom right, #ff0000, #b30000, #660000, #000000, rgb(255, 122, 89));
+    border-radius: 20px;
+}
